@@ -5,4 +5,5 @@ z = x + y
 print(z)
 print("Hello!")
 print("Hello again")
-
+print("Git reset")
+print("I forgot to add new changes")
